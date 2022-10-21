@@ -1,2 +1,2 @@
 # Xylophone-iOS
-Brief IOS project, You can simulate two dice of six faces.
+Brief IOS project, You can simulate a little Xylophone with seven different sounds .
